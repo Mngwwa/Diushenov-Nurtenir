@@ -4,7 +4,7 @@
 #include <vector>
 using namespace std;
 int main() {
-    int number [10];l
+    int number [10];
 
     cout << "Enter 10 integers for the array:" << endl;
     for (int i = 0; i < 10; i++) {
